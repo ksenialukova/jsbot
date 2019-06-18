@@ -1,3 +1,6 @@
 {
-  "name": "jsbot"
+  "name": "jsbot",
+  "env": {
+    "TOKEN": "768728974:AAFt7_o83MqTODOIMK3LqsQys3pHF_sg5bs"
+  }
 }
